@@ -410,7 +410,7 @@ function createHtmlContent() {
         <div class="card">
             <img src=${
               isPage ? "../assets/objective.png" : "assets/objective.png"
-            } alt="objective" width="250px" height="250px">
+            } alt="objective" width="251px" height="250px">
             <div class="container">
                 <h4><b></b></h4>
                 <p>Architect & Engineer</p>
